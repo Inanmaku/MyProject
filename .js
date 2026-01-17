@@ -1,4 +1,4 @@
-const API_KEY = "e2f631d110de2146392a6556169849304dde4f663d18f492c68bde28df470864"
+const API_KEY = "yourapi_key_here"
 const MODEL_ID = "eleven_multilingual_v2"; 
 const OUTPUT_FOLDER_NAME = "ElevenLabs_MP3s"
 
